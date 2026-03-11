@@ -161,8 +161,8 @@ hr {
 .intro {
   /* Черный фон с глубоким радиальным градиентом */
   background:
-    radial-gradient(circle at 80% 20%, rgba(230, 255, 120, 0.35) 0%, transparent 40%),
-    radial-gradient(circle at 20% 80%, rgba(208, 255, 1, 0.05) 0%, transparent 40%),
+    radial-gradient(circle at 90% 30%, rgba(230, 255, 120, 0.35) 0%, transparent 40%),
+    radial-gradient(circle at 30% 90%, rgba(208, 255, 1, 0.05) 0%, transparent 40%),
     #000;
   position: relative;
 
@@ -328,6 +328,7 @@ hr {
   display: flex;
   margin-top: auto
 }
+
 
 
 
