@@ -51,7 +51,7 @@ hr {
 
 .logo-wrapper {
   position: relative;
-  width: 100px; /* Немного уменьшил для элегантности */
+  width: 100px; 
   height: 100px;
   transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
@@ -161,7 +161,7 @@ hr {
 .intro {
   /* Черный фон с глубоким радиальным градиентом */
   background:
-    radial-gradient(circle at 80% 20%, rgba(208, 255, 1, 0.15) 0%, transparent 40%),
+    radial-gradient(circle at 80% 20%, rgba(230, 255, 120, 0.35) 0%, transparent 40%),
     radial-gradient(circle at 20% 80%, rgba(208, 255, 1, 0.05) 0%, transparent 40%),
     #000;
   position: relative;
@@ -328,6 +328,7 @@ hr {
   display: flex;
   margin-top: auto
 }
+
 
 
 
